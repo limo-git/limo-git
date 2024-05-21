@@ -84,5 +84,5 @@ end
 
 ### My Spotify Activity
 <div align=center>
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ft5m4rldz70ur76v7k9esy24r&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4da9ef&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ft5m4rldz70ur76v7k9esy24r&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ft5m4rldz70ur76v7k9esy24r&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4da9ef&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ft5m4rldz70ur76v7k9esy24r&redirect=true)
 </div>
