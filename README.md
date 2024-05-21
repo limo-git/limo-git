@@ -1,10 +1,9 @@
 <div align=center>
 <h2 align=center>Hello There</h2>
 <span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=999999999999&center=true&vCenter=true&width=435&lines=+I'm" alt="Typing SVG" /></span>
-<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=+Achal+Singhal;iglu" alt="Typing SVG" /></span>
+<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=+Dimple+Yadav;limo" alt="Typing SVG" /></span>
 </div>
-
-<p>
+<p align=center>
 Just your average tech nerd who likes to tinker with everything.
 </p>
 <p align="center"> 
@@ -41,7 +40,7 @@ class limo < Person
   def currently
     {
       studying: [ 'Electrical and Electronics Engineering' ],
-      tinkering: [ 'MERN', 'Typescript', 'Next.JS' , 'Python' ]
+      tinkering: [ 'MERN', 'TypeScript','JavaScript', 'Next.JS' , 'Python' ]
      }
   end
 end
@@ -53,11 +52,9 @@ end
 
 <div>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
 <a href="https://expressjs.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" height="50" /></a> 
-<a href="https://kit.svelte.dev" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.sv" alt="Svelte" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/480/firebase.png" alt="Firebase" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="Next.js" height="50" /></a> 
@@ -74,14 +71,11 @@ end
 
 <div>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+
+
 </div>
 
 <br>
