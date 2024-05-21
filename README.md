@@ -14,9 +14,9 @@ loves reading cringe romance novels while listening to music.
 <div align="center">
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/singhalachal/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"></a>&nbsp;&nbsp;
-<a href="mailto:achals2002@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/urmnvmr6k0zhur4v6sd9ad32x?si=dfbd8e487241430d"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408697.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dimple-yadav-149344202/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"></a>&nbsp;&nbsp;
+<a href="mailto:dimple.yadav.ug23@nsut.ac.in"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/ft5m4rldz70ur76v7k9esy24r"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408697.png"></a>&nbsp;&nbsp;
  </p>
 
 </div>
@@ -90,7 +90,7 @@ end
 
 | Github Stats                                                                                                                                                                     | Top Languages                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Achal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchalS-iglu&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalS-iglu&layout=compact&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Achal's GitHub stats](https://github-readme-stats.vercel.app/api?username=limo-git&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limo-git&layout=compact&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
 
 <div align=center>
 
