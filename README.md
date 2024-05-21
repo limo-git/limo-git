@@ -80,9 +80,4 @@ end
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Achal's GitHub stats](https://github-readme-stats.vercel.app/api?username=limo-git&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limo-git&layout=compact&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
 
-<div align=center>
 
-### My Spotify Activity
-<div align=center>
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ft5m4rldz70ur76v7k9esy24r)
-</div>
