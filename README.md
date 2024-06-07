@@ -40,7 +40,7 @@ class limo < Person
   def currently
     {
       studying: [ 'Electrical and Electronics Engineering' ],
-      tinkering: [ 'MERN', 'TypeScript','JavaScript', 'Next.JS' , 'Python' ]
+      tinkering: [ 'MERN','TypeScript','Next.JS','Tensorflow' ]
      }
   end
 end
