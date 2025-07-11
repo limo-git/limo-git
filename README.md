@@ -27,7 +27,7 @@ loves reading cringe romance novels while listening to music.
 class limo < Person
   def initialize
     @name = 'Dimple Yadav'
-    @age = 20
+    @age = 21
     @education = [ 'Netaji Subhas University of Technology' ]
     @hobbies = [ 'Video Games', 'Silly Goofy Reads', 'Music' ]
   end
@@ -40,7 +40,7 @@ class limo < Person
   def currently
     {
       studying: [ 'Electrical and Electronics Engineering' ],
-      tinkering: [ 'MERN','TypeScript','Next.JS','Tensorflow' ]
+      tinkering: [ 'AWS','TypeScript','Next.JS','Python' ]
      }
   end
 end
